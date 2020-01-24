@@ -1,9 +1,10 @@
 
 body {
-    background-image: image("Images\sparkles.jpg");
+    background: linear-gradient(#d9a7c7, #fffcdc);
     background-color: gray;
     background-position: center;
     font-family: 'Raleway', sans-serif;
+    line-height: 1.8;
 }
 
 #navigation {
@@ -11,16 +12,17 @@ body {
 }
 
 .navbutton {
-    color: white;
+    color: black;
     text-align: center;
     background-color: transparent;
-    font-size: 30px;
+    font-size: 25px;
+    letter-spacing: 5px;
     margin-top: 50px;
     margin-bottom: 30px;
     margin-left: 100px;
-    padding: 20px 80px;
-    border-left-color: white;
-    border-top-color: white;
+    padding: 10px 50px;
+    border-left-color: black;
+    border-top-color: black;
     border-right-color: transparent;
     border-bottom-color: transparent;
     transition: transform .2s;
