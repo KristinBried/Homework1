@@ -1,12 +1,16 @@
 
 body {
     background-image: url("Images/stars2.jpg");
-    background-size: 100% 100%;
-    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
     font-family: 'Libre Franklin', sans-serif;
     line-height: 1.8;
     color: white;
 
+}
+
+main {
+    height: 100vh;
 }
 
 #navigation {
@@ -54,13 +58,13 @@ a#vairak-info:visited {
     color:white;
   }
 
-  a#vairak-info:hover {
+a#vairak-info:hover {
     border-bottom: 1px solid;     
     background: white;
     color: black;
   }
 
-  h1{
+h1{
       font-family: 'Montserrat', sans-serif;
       font-weight: bold;
       text-align: center;
@@ -75,7 +79,6 @@ a#vairak-info:visited {
     font-weight: lighter;
     text-align: right;
     font-size: 15px;
-    margin-bottom: 140px;
     margin-right: 150px;
     text-shadow: 1px 10px 45px;
 
