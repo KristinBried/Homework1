@@ -121,6 +121,10 @@ h1{
   
 }
 
+li {
+    margin-left: 400px;
+}
+
 #vairak-par-zvaigznem {
     text-align: center; 
     background-color: #2b2b2bcf;
