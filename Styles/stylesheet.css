@@ -3,7 +3,7 @@ body {
     background-image: url("Images/stars2.jpg");
     background-size: 100% 100%;
     background-position: center;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Libre Franklin', sans-serif;
     line-height: 1.8;
     color: white;
 
@@ -21,7 +21,7 @@ body {
     letter-spacing: 5px;
     margin-top: 50px;
     margin-bottom: 30px;
-    margin-left: 100px;
+    margin-left: 80px;
     padding: 10px 50px;
     border-left-color: white;
     border-top-color: white;
@@ -43,6 +43,7 @@ body {
 
 #vairak-info {
     font-size: 30px;
+
 }
 
 a#vairak-info:link {
@@ -65,7 +66,7 @@ a#vairak-info:visited {
       text-align: center;
       font-size: 40px;
       margin-top: 100px;
-      text-shadow: 0 0 45px;
+      text-shadow: 1px 10px 45px;
       
   }
 
@@ -74,9 +75,9 @@ a#vairak-info:visited {
     font-weight: lighter;
     text-align: right;
     font-size: 15px;
-    margin-bottom: 40px;
+    margin-bottom: 140px;
     margin-right: 150px;
-    text-shadow: 0 0 45px;
+    text-shadow: 1px 10px 45px;
 
       }
 
@@ -98,4 +99,19 @@ a#vairak-info:visited {
     text-decoration: underline;
     font-size: 30px;
     font-weight: lighter;
+}
+
+.apakstemas {
+  background-color: #2b2b2bcf;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-left: 40px;
+  margin-right: 40px;
+  
+}
+
+.footer {
+    text-align: center; 
 }
