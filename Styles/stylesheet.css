@@ -191,7 +191,9 @@ footer {
 
 @media screen and (max-width: 489px) {
    body {
-    background-size: 100% auto;
+    background-image: url("Images/stars2_mob_vers.jpg");
+    background-size: cover;
+    background-attachment: fixed;
    }
 
    .sadalu-bildes {
