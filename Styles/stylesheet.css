@@ -190,13 +190,6 @@ footer {
 }
 
 @media screen and (max-width: 489px) {
-   body {
-    background-image: none;
-    background-color: linear-gradient(#536976, #292E49);
-    background-size: none;
-    background-attachment: none;
-   }
-
    .sadalu-bildes {
     width: 100px;
     height: 100px;
