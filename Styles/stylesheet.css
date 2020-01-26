@@ -191,7 +191,7 @@ footer {
 
 @media screen and (max-width: 489px) {
    body {
-    background-image: url("Images/stars2_mob_vers.jpg");
+    background-image: url("Styles/Images/stars2_mob_vers.jpg");
     background-size: cover;
     background-attachment: fixed;
    }
