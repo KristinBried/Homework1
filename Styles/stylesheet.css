@@ -160,10 +160,27 @@ footer {
 	100% {
 		transform: scale(0.95);
 	}
-
+}
 
 @media screen and (max-width: 950px) {
-        .navbutton2 {
-          display: block;
-        }
+    .navbutton2 {
+      display: block;
+      margin-left: 10%;
+      margin-right: 10%;
+
       }
+
+.navbutton2:hover {
+    transform: none;
+
+}
+    #landing {
+    height: 100%;
+}
+
+#vairak-par-zvaigznem {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+}
