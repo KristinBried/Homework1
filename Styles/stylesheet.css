@@ -191,7 +191,7 @@ footer {
 
 @media screen and (max-width: 489px) {
    body {
-    background-size: 489px auto;
+    background-size: 100% auto;
    }
 
    .sadalu-bildes {
