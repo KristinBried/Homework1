@@ -171,8 +171,8 @@ footer {
 @media screen and (max-width: 1090px) {
     .navbutton2 {
       display: block;
-      margin-left: 30%;
-      margin-right: 30%;
+      margin-left: 15%;
+      margin-right: 15%;
        
       }
 
@@ -195,11 +195,11 @@ footer {
 }
 
 #poga-apraksts {
-    margin-right: 30%;
+    margin-right: 15%;
 }
 
 #poga-muzs {
-    margin-left: 30%;
+    margin-left: 15%;
 }
 
 }
